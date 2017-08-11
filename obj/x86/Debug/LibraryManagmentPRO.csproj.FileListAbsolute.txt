@@ -1,0 +1,68 @@
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\bin\Debug\LibraryManagmentPRO.exe.config
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentPRO.exe
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentPRO.pdb
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\bin\Debug\Database1.mdf
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\bin\Debug\Database1_log.ldf
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\bin\Debug\LibraryManagmentPRO.exe
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\bin\Debug\LibraryManagmentPRO.pdb
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentPRO.csprojResolveAssemblyReference.cache
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Accounts_Managment.frmAccountsDetails.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Accounts_Managment.frmMemberShipCollection.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Accounts_Managment.frmPaymentDonet.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Authentication.frmCreateUser.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Authentication.frmLogin.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Books_Managment.frmBookReminderAndCollect.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Books_Managment.frmBooksManagment.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Books_Managment.frmOneClickSearch.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Books_Managment.frmOutGoingBooks.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.EmployeeManagment.frmEmployeeManagment.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.EmployeeManagment.frmEmployeeStatusEdit.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.frmAbout.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.frmDemo.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentPRO.frmLicence.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.frmSettings.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Main.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.MemberManagment.frmMember.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentpro.Properties.Resources.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmAccountSettings.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmBookselfSettings.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmBookSettings.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmEmployeeSettings.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmMemberSettings.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmOrgSettings.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmPaymentSettings.resources
+E:\Developing And Study Zone\Self_Study And Develping\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentPRO.csproj.GenerateResource.Cache
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\bin\Debug\LibraryManagmentPRO.exe.config
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentPRO.exe
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentPRO.pdb
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\bin\Debug\Database1.mdf
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\bin\Debug\Database1_log.ldf
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\bin\Debug\LibraryManagmentPRO.exe
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\bin\Debug\LibraryManagmentPRO.pdb
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentPRO.csprojResolveAssemblyReference.cache
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Accounts_Managment.frmAccountsDetails.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Accounts_Managment.frmMemberShipCollection.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Accounts_Managment.frmPaymentDonet.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Authentication.frmCreateUser.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Authentication.frmLogin.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Books_Managment.frmBookReminderAndCollect.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Books_Managment.frmBooksManagment.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Books_Managment.frmOneClickSearch.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Books_Managment.frmOutGoingBooks.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.EmployeeManagment.frmEmployeeManagment.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.EmployeeManagment.frmEmployeeStatusEdit.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.frmAbout.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.frmDemo.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentPRO.frmLicence.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.frmSettings.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Main.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.MemberManagment.frmMember.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentpro.Properties.Resources.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmAccountSettings.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmBookselfSettings.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmBookSettings.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmEmployeeSettings.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmMemberSettings.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmOrgSettings.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibreryManagmentSystem.Settings.frmPaymentSettings.resources
+D:\Development Zone\CS With .Net\LibraryManagmentPRO\LibraryManagmentPRO\obj\x86\Debug\LibraryManagmentPRO.csproj.GenerateResource.Cache
